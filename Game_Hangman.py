@@ -1,3 +1,5 @@
+
+#This code includes only logic no graphics, game is incomplete 
 import random
 a = ["beekeeper", "war","dogcarer","foodlover"]
 
