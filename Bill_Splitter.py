@@ -1,5 +1,6 @@
 #This is a Bill splitter application , which takes bill amount , tip percent , no of people as input and genrates share of each
 
+
 print("******************** Welcome To Bill Splitter ********************")
 
 bill_amount = float(input("Please Enter the bill amount = "))
